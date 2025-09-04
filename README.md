@@ -13,7 +13,7 @@ An n8n automation that turns a short premise into a 1–2 minute narrative VO ci
 6. Asset management (optional): Writes thumbnails/metadata to Google Sheets and uploads images, VO, and video to Google Drive with clean, shot-based filenames.
 
 **Example**
-https://vimeo.com/1103280330/4768adf4c8
+[![Video Thumbnail](https://github.com/adam-t-gensler/media-agents/blob/main/assets/UTHSC_Gensler_Meticulous.png)](https://vimeo.com/1103280330/4768adf4c8)
 
 **When to use it**
 - Fast ideation for 1–2 minute narrative pieces with a cohesive style.
